@@ -1,0 +1,6 @@
+{
+  "name": "${localWorkspaceFolderBasename}",
+  "image": "devcontainer:latest",
+  "remoteUser": "vscode",
+  "containerUser": "vscode"
+}
